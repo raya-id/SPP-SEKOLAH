@@ -1,0 +1,15 @@
+{
+  "name": "Manajemen SPP-Siswa Sekolah",
+  "short_name": "e-SPP-Siswa",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#0ea5e9",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./Jiraya-free.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
