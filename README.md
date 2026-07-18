@@ -2,7 +2,7 @@
 
 **Sistem Manajemen Pembayaran Siswa Sekolah (PWA/Lite)**
 
-e-SPP SEKOLAH adalah aplikasi web berbasis *Single-Page Application* (SPA) tingkat *Enterprise* yang dirancang khusus untuk memodernisasi tata kelola administrasi keuangan sekolah. Dibangun di atas arsitektur *serverless* Google Apps Script (GAS) dan Google Sheets, sistem ini menawarkan eksekusi data berkecepatan tinggi, antarmuka *Glassmorphism* yang elegan, serta perlindungan keamanan data yang ketat. 
+e-SPP SEKOLAH adalah aplikasi web berbasis *Single-Page Application* (PWA) tingkat *Enterprise* yang dirancang khusus untuk memodernisasi tata kelola administrasi keuangan sekolah. Dibangun di atas arsitektur *serverless* Google Apps Script (GAS) dan Google Sheets, sistem ini menawarkan eksekusi data berkecepatan tinggi, antarmuka *Glassmorphism* yang elegan, serta perlindungan keamanan data yang ketat. 
 
 Aplikasi ini mendigitalkan pencatatan SPP, manajemen tunggakan, hingga portal laporan transparan untuk orang tua siswa, tanpa memerlukan biaya *hosting* server konvensional.
 
