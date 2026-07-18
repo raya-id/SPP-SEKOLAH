@@ -1,5 +1,5 @@
 // sw.js - Hybrid Minimalis (Bypass Install PWA + Instant App Shell Protection)
-const SHELL_CACHE = 'espp-shell-v1';
+const SHELL_CACHE = 'e-spp-sekolah-v3.5';
 const SHELL_FILES = [
   './',
   './index.html',
